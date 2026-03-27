@@ -27,10 +27,10 @@ It provides a scalable system for managing games, users, and roles with secure a
 
 ### 🛠️ Admin
 - Add and remove games  
-- Manage genres  
+- Manage genres ( categories )
 
 ### 👑 Super Admin
-- Block / unblock users / admins  
+- Block / unblock users and admins  
 - Delete users and comments  
 - Assign or remove roles  
 
